@@ -24,7 +24,7 @@ Hi there! I'm **Prashant Saini**, an enthusiastic fresher with a passion for cod
 ---
 
 ## 🌟 Portfolio Highlights
-### 🌐 [My Portfolio Website](https://prashant-saini-22.vercel.app)
+### 🌐 [My Portfolio Website](https://my-old-portfolio-olive.vercel.app/)
 **What’s inside?**
 - **Technologies Used**: HTML, CSS, JavaScript, Responsive Design, Animations
 - **Features**:
@@ -42,13 +42,13 @@ A Python-based project predicting the likelihood of heart disease using Kaggle d
 ### [📚 Library Management System](https://github.com/prashantsaini1525/MyLibrary)
 A Node.js and EJS-powered application for managing books and authors.
 
-### [🌐 iTech World](https://github.com/prashantsaini1525/ITech)
+### [🌐 I Tech World](https://github.com/prashantsaini1525/ITech)
 An educational website for students in grades 10 to 12 and engineering/medical aspirants.
 
 ---
 
 ## 📫 Let's Connect
-- 🌐 [Portfolio](https://prashant-saini-22.vercel.app)
+- 🌐 [Portfolio](https://my-old-portfolio-olive.vercel.app/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/prashant-saini)
 - 🐦 [Twitter](https://x.com/Prashan58889893)
 
